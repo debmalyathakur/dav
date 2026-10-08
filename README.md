@@ -148,6 +148,17 @@ This project was performed in an **authorized lab/CTF environment** for educatio
 Do not attempt to access or exploit systems without explicit authorization.
 
 ---
+## Author
+
+**Debmalya Thakur**
+
+Junior System Administrator | Aspiring Penetration Tester | VAPT Enthusiast
+
+GitHub: https://github.com/debmalyathakur
+
+LinkedIn: https://www.linkedin.com/in/debmalya-thakur-9b240417b
+
+---
 
 ## 👨‍💻 Skills Demonstrated
 
