@@ -1,0 +1,45 @@
+# WebDAV Security Lab — Educational License
+
+Copyright (c) 2026 Debmalya Thakur
+
+## Permission
+
+Permission is granted to view, use, copy, and modify the materials in this repository for:
+
+* Personal cybersecurity learning
+* Educational purposes
+* Authorized penetration-testing labs
+* Capture-the-Flag (CTF) environments
+* Security research conducted with proper authorization
+
+## Restrictions
+
+The materials in this repository may not be:
+
+* Used to attack, compromise, or access systems without explicit authorization.
+* Used for illegal or malicious activities.
+* Presented as the work of another person.
+* Redistributed commercially without prior written permission from the copyright holder.
+
+## Disclaimer
+
+This repository is provided for educational and cybersecurity research purposes only.
+
+The author does not authorize or encourage the use of these materials against systems, networks, applications, or accounts without explicit permission from the owner.
+
+The author is not responsible for any damage, data loss, unauthorized access, or legal consequences resulting from misuse of the information provided in this repository.
+
+## Attribution
+
+If substantial portions of this repository are reused or adapted, appropriate credit must be given to:
+
+**Debmalya Thakur**
+
+Original repository:
+https://github.com/debmalyathakur/dav
+
+## No Warranty
+
+The materials are provided **"AS IS"**, without warranty of any kind, express or implied.
+
+Use these materials responsibly and only within environments where you have explicit authorization to conduct security testing.
